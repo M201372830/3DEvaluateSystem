@@ -1,0 +1,12 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\3DEvaluateSystem\3DEvaluateSystem\bin\Debug\3DEvaluateSystem.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\3DEvaluateSystem\3DEvaluateSystem\bin\Debug\3DEvaluateSystem.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\3DEvaluateSystem\3DEvaluateSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\3DEvaluateSystem\3DEvaluateSystem\obj\Debug\Window1.baml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\3DEvaluateSystem\3DEvaluateSystem\obj\Debug\Window1.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\3DEvaluateSystem\3DEvaluateSystem\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\3DEvaluateSystem\3DEvaluateSystem\obj\Debug\3DEvaluateSystem_MarkupCompile.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\3DEvaluateSystem\3DEvaluateSystem\obj\Debug\3DEvaluateSystem.g.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\3DEvaluateSystem\3DEvaluateSystem\obj\Debug\_3DEvaluateSystem.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\3DEvaluateSystem\3DEvaluateSystem\obj\Debug\3DEvaluateSystem.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\3DEvaluateSystem\3DEvaluateSystem\obj\Debug\3DEvaluateSystem.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\3DEvaluateSystem\3DEvaluateSystem\obj\Debug\3DEvaluateSystem.pdb
